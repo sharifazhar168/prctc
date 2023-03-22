@@ -1,0 +1,17 @@
+body{
+    background-color: #f1faee;
+}
+nav.navbar{
+    background-color: #1d3557 !important; 
+}
+footer{
+    background-color: #1d3557 !important; 
+
+}
+main{
+    flex: 1 0 auto;
+}
+div button.m-1{
+    min-width: 45%;
+
+}
